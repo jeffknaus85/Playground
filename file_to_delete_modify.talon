@@ -1,2 +1,0 @@
-WHAT: "THE HECK"
-NOW: "Test"
